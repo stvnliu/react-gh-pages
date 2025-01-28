@@ -1,4 +1,3 @@
-import { render } from '@testing-library/react';
 import { ReactElement, useEffect, useRef } from 'react';
 import * as THREE from 'three';
 import logo from "./texturemap.jpeg";
@@ -150,7 +149,7 @@ export const ThreeApp = (): ReactElement => {
 
     return (
         <main ref={refContainer}>
-            <h1>zhongheng-liu.github.io</h1>
+            <h1>Website Under Construction</h1>
             <section className='left'>
                 <h2>Steven Liu</h2>
                 <p>I write sometimes-functional code in JavaScript React, Java, and a bit of Python.</p>
